@@ -1,0 +1,6 @@
+venv_drf.*
+.git
+.gitignore
+.dockerignore
+.idea
+.vscode
