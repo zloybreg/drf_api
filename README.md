@@ -1,2 +1,2 @@
 # drf_api
-Create Django REST API
+Create test Django REST API with Travis-CI and Docker
